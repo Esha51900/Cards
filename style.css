@@ -3,7 +3,7 @@
     margin: 0px;
 }
 .container {
-    height: full;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     background-color: black;
